@@ -1,4 +1,4 @@
-# 28_module_frontend
+#Vue Js Template
 
 This template should help get you started developing with Vue 3 in Vite.
 
